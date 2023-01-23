@@ -1,6 +1,7 @@
 # JSON Server [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
+![Insight](https://user-images.githubusercontent.com/105644684/213972274-765a3a2f-0112-45d7-995e-79680210a6ee.png)
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 
